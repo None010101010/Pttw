@@ -7,4 +7,4 @@ Insall to Ubuntu sudo apt instal python3-pip && pip3 install selenium tqdm pyfzf
 
 Insall to Manjaro sudo pacman -S fzf && pip3 install selenium tqdm pyfzf
 
-Insall to Fedora 
+Insall to Fedora sudo apt install python3-pip fzf && pip3 install selenium tqdm pyfzf
